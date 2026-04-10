@@ -24,3 +24,8 @@
 [![Website](https://img.shields.io/badge/pandul.fr-000000?style=flat&logo=firefox&logoColor=white)](https://pandul.fr)
 
 ⚡ Lightning : `sats@pandul.fr`
+
+<p align="center">
+  <a href="https://bitcoinbazar.fr/products/le-dictionnaire-de-bitcoin"><img src="https://img.shields.io/badge/Acheter%20sur%20Bitcoin%20Bazar-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Acheter le Dictionnaire de Bitcoin sur Bitcoin Bazar"></a>
+  <a href="https://www.amazon.fr/dp/B0GV1N6S1W"><img src="https://img.shields.io/badge/Acheter%20sur%20Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Acheter le Dictionnaire de Bitcoin sur Amazon"></a>
+</p>
