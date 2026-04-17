@@ -27,5 +27,5 @@
 
 <p align="center">
   <a href="https://bitcoinbazar.fr/products/le-dictionnaire-de-bitcoin"><img src="https://img.shields.io/badge/Acheter%20le%20Dictionnaire%20de%20Bitcoin%20sur%20Bitcoin%20Bazar-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Acheter le Dictionnaire de Bitcoin sur Bitcoin Bazar"></a>
-  <a href="https://www.amazon.fr/dp/B0GV1N6S1W"><img src="https://img.shields.io/badge/Acheter%20le%20Dictionnaire%20de%20Bitcoin%20sur%20Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Acheter le Dictionnaire de Bitcoin sur Amazon"></a>
+  <a href="https://amzn.to/4cxaOA8"><img src="https://img.shields.io/badge/Acheter%20le%20Dictionnaire%20de%20Bitcoin%20sur%20Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Acheter le Dictionnaire de Bitcoin sur Amazon"></a>
 </p>
